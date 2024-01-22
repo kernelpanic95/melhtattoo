@@ -1,2 +1,3 @@
 # melhtattoo
-my friend's tattoo artist website
+my tattoo artist friend's website
+Go check her out
